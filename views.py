@@ -40,5 +40,5 @@ def send_multiple_requests(region, uid, view_count):
 
 
 region = 'me'
-player_id = '2261052733'
+player_id = '9939518820'
 send_multiple_requests(region, player_id, 99999)
